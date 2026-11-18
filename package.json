@@ -1,0 +1,16 @@
+
+{
+  "name": "omini-motion",
+  "version": "2.0.0",
+  "private": true,
+  "description": "OMINI MOTION - plataforma de tutoriais com IA",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.57.4",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
+
